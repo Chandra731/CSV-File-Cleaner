@@ -1,0 +1,1 @@
+Drop column 'age_certification'\nDrop column 'seasons'\nFilled nulls in 'tmdb_score' with 5.984247015021184\nFilled nulls in 'imdb_score' with 5.97639548022599\nParsed and flattened 'genres'\nParsed and flattened 'production_countries'\nParsed and flattened 'production_countries'\n

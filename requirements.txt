@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+requests
+plotly
+seaborn
+matplotlib
+pandas-profiling
+ydata-profiling
+openpyxl

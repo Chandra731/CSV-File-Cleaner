@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Streamlit cache and temp files
+.streamlit/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# Python virtual environments
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Data files (optional, if you want to exclude uploaded or generated data)
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.zip
+
+# Profile reports
+profile_report.html
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Others
+*.sqlite3
+*.db
