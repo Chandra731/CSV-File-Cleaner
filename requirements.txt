@@ -5,6 +5,6 @@ requests
 plotly
 seaborn
 matplotlib
-pandas-profiling
 ydata-profiling
 openpyxl
+pydantic

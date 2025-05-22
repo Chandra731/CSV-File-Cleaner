@@ -97,9 +97,10 @@ Open the URL provided by Streamlit (usually `http://localhost:8501`) in your bro
 
 ![File Upload](screenshots/file_upload.png)
 
-### Column Type Profiling and Smart Suggestions
+### Smart suggestions
 
-![Profiling and Suggestions](screenshots/profiling_suggestions.png)
+![Suggestions]
+(screenshots/suggestion.png)
 
 ### Column-wise Cleaning Options
 

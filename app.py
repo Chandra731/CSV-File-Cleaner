@@ -195,7 +195,7 @@ def main():
                 st.download_button("Download JSON", data.to_json(orient='records'), file_name="cleaned_data.json", mime="application/json")
 
         st.subheader("Export Profile Report")
-        profile_report_option = st.selectbox("Select profile report type", ['None', 'pandas-profiling', 'ydata-profiling'])
+        profile_report_option = st.selectbox("Select profile report type", ['None','ydata-profiling'])
         if profile_report_option != 'None':
             if st.button("Generate and Download Profile Report"):
                 if profile_report_option == 'pandas-profiling':
