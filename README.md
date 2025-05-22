@@ -60,8 +60,8 @@ An advanced CSV cleaner web application built with Streamlit. This app allows us
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Chandra731/CSV_File_Cleaner
+cd CSV_File_Cleaner
 ```
 
 2. Create and activate a virtual environment (optional but recommended):
@@ -92,10 +92,6 @@ Open the URL provided by Streamlit (usually `http://localhost:8501`) in your bro
 ---
 
 ## Screenshots
-
-### Main Interface with Dark Mode Enabled
-
-![Dark Mode Interface](screenshots/dark_mode.png)
 
 ### File Upload and Data Preview
 
